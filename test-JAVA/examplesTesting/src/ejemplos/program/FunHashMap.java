@@ -14,7 +14,7 @@ public class FunHashMap {
         elhash.put(1, "Pepita Lepon");
         elhash.put(2, "Pepe Lepon");
         elhash.put(3, "Pepin Lepon");
-        // imprimo todo elhash
+        // imprimo todo elhash --
         //System.out.println(elhash);
         Scanner teclado = new Scanner(System.in);
         System.out.print("Introduzca un ID: ");
